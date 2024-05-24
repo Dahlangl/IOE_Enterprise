@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace IOE_Enterprise.POS
+namespace IOE_Enterprise
 {
-    public partial class FrmPrincipal : Form
+    public partial class Login : Form
     {
-        public FrmPrincipal()
+        public Login()
         {
             InitializeComponent();
         }
